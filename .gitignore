@@ -1,0 +1,5 @@
+/target/
+.classpsth
+.project
+logContentFile.log
+.settings/
